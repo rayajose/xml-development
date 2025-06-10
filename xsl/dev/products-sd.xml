@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id type="integer">4367195734118</id>
+        <title>Loyal AF Collar Charm Pink</title>
+        <body-html>&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;
+            &lt;p style=&quot;display: inline !important;&quot;&gt;Have a dog and you&apos;ll always have a friend.  Get this collar charm and you&apos;ll always look fly. &lt;/p&gt;
+            &lt;ul&gt;
+            &lt;li&gt;Material: Brass, Gold Plating, and Enamel&lt;/li&gt;
+            &lt;li&gt;Dimensions: 1.125 Inch diameter (28.58mm)&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;meta charset=&quot;utf-8&quot;&gt;
+            &lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;</body-html>
+        <vendor>Two Tails Pet Company</vendor>
+        <product-type>Collar Charms</product-type>
+        <created-at>2019-11-15T17:53:31+01:00</created-at>
+        <handle>loyal-af-collar-charm-pink-1</handle>
+        <updated-at>2025-06-10T18:30:46+02:00</updated-at>
+        <published-at>2025-01-03T10:57:17+01:00</published-at>
+        <template-suffix></template-suffix>
+        <published-scope>global</published-scope>
+        <tags>blowout, charm, collar charm, jewelry, laborday, loyal, pink</tags>
+        <variants type="array">
+            <variant>
+                <id type="integer">31120820502630</id>
+                <product-id type="integer">4367195734118</product-id>
+                <title>Pink/Gold</title>
+                <price>22.00</price>
+                <sku>TWLOCHPI99</sku>
+                <position type="integer">1</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price>0.00</compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>Pink/Gold</option1>
+                <option2 nil="true"/>
+                <option3 nil="true"/>
+                <created-at>2019-11-15T17:53:31+01:00</created-at>
+                <updated-at>2025-06-10T18:30:46+02:00</updated-at>
+                <taxable type="boolean">true</taxable>
+                <barcode></barcode>
+                <grams type="integer">45</grams>
+                <image-id type="integer">13446059622502</image-id>
+                <weight type="float">0.1</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">2</inventory-quantity>
+                <old-inventory-quantity type="integer">2</old-inventory-quantity>
+                <requires-shipping type="boolean">true</requires-shipping>
+            </variant>
+        </variants>
+        <options type="array">
+            <option>
+                <id type="integer">5649305174118</id>
+                <product-id type="integer">4367195734118</product-id>
+                <name>Color</name>
+                <position type="integer">1</position>
+                <values type="array">
+                    <value>Pink/Gold</value>
+                </values>
+            </option>
+        </options>
+        <images type="array">
+            <image>
+                <id type="integer">13446059655270</id>
+                <product-id type="integer">4367195734118</product-id>
+                <position type="integer">1</position>
+                <created-at>2019-11-15T17:55:47+01:00</created-at>
+                <updated-at>2020-02-19T13:46:29+01:00</updated-at>
+                <alt>Loyal AF Collar Charm Pink - Sir Dogwood</alt>
+                <width type="integer">500</width>
+                <height type="integer">500</height>
+                <src>https://cdn.shopify.com/s/files/1/1137/7574/products/TW_loyal_AF_pink_3.jpg?v=1582116389</src>
+                <variant-ids type="array"/>
+            </image>
+            <image>
+                <id type="integer">13446059622502</id>
+                <product-id type="integer">4367195734118</product-id>
+                <position type="integer">2</position>
+                <created-at>2019-11-15T17:55:47+01:00</created-at>
+                <updated-at>2020-02-19T13:46:29+01:00</updated-at>
+                <alt>Loyal AF Collar Charm Pink - Sir Dogwood</alt>
+                <width type="integer">500</width>
+                <height type="integer">500</height>
+                <src>https://cdn.shopify.com/s/files/1/1137/7574/products/TW_loyal_AF_pink_2.png?v=1582116389</src>
+                <variant-ids type="array">
+                    <variant-id type="integer">31120820502630</variant-id>
+                </variant-ids>
+            </image>
+        </images>
+        <image>
+            <id type="integer">13446059655270</id>
+            <product-id type="integer">4367195734118</product-id>
+            <position type="integer">1</position>
+            <created-at>2019-11-15T17:55:47+01:00</created-at>
+            <updated-at>2020-02-19T13:46:29+01:00</updated-at>
+            <alt>Loyal AF Collar Charm Pink - Sir Dogwood</alt>
+            <width type="integer">500</width>
+            <height type="integer">500</height>
+            <src>https://cdn.shopify.com/s/files/1/1137/7574/products/TW_loyal_AF_pink_3.jpg?v=1582116389</src>
+            <variant-ids type="array"/>
+        </image>
+    </product>
+    <product>
+        <id type="integer">8090181173545</id>
+        <title>Fur Baby Merit Badge</title>
+        <body-html>&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta charset=&quot;utf-8&quot;&gt;
+            &lt;p&gt;&lt;span&gt;&lt;meta charset=&quot;utf-8&quot;&gt;For the pampered pooch. An iron-on merit badge for dogs (or any pet). The perfect addition to a dog&apos;s bandana, jacket, or blanket. All of our merit badges are iron-on. It’s fuss free and done in minutes! Every order comes with an instruction guide on how to best apply your badge&lt;/span&gt;.&lt;/p&gt;
+            &lt;div style=&quot;padding-left: 30px;&quot;&gt;
+            &lt;ul&gt;
+            &lt;li&gt;Iron on patch&lt;/li&gt;
+            &lt;li&gt;Designed and manufactured in the UK&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;/div&gt;</body-html>
+        <vendor>Scout&apos;s Honor</vendor>
+        <product-type>Patch</product-type>
+        <created-at>2023-01-26T20:13:16+01:00</created-at>
+        <handle>fur-baby-merit-badge</handle>
+        <updated-at>2025-06-10T18:30:07+02:00</updated-at>
+        <published-at>2025-01-03T10:51:43+01:00</published-at>
+        <template-suffix></template-suffix>
+        <published-scope>global</published-scope>
+        <tags>heart, love, pink, trinket, valentine, vday</tags>
+        <variants type="array">
+            <variant>
+                <id type="integer">44323094233385</id>
+                <product-id type="integer">8090181173545</product-id>
+                <title>Pink Multi</title>
+                <price>9.00</price>
+                <sku>SHFUPAPI99</sku>
+                <position type="integer">1</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price></compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>Pink Multi</option1>
+                <option2 nil="true"/>
+                <option3 nil="true"/>
+                <created-at>2023-01-26T20:13:16+01:00</created-at>
+                <updated-at>2025-06-10T18:30:07+02:00</updated-at>
+                <taxable type="boolean">true</taxable>
+                <barcode></barcode>
+                <grams type="integer">14</grams>
+                <image-id type="integer">40283492253993</image-id>
+                <weight type="float">0.5</weight>
+                <weight-unit>oz</weight-unit>
+                <inventory-quantity type="integer">2</inventory-quantity>
+                <old-inventory-quantity type="integer">2</old-inventory-quantity>
+                <requires-shipping type="boolean">true</requires-shipping>
+            </variant>
+        </variants>
+        <options type="array">
+            <option>
+                <id type="integer">10277709840681</id>
+                <product-id type="integer">8090181173545</product-id>
+                <name>Color</name>
+                <position type="integer">1</position>
+                <values type="array">
+                    <value>Pink Multi</value>
+                </values>
+            </option>
+        </options>
+        <images type="array">
+            <image>
+                <id type="integer">40283492253993</id>
+                <product-id type="integer">8090181173545</product-id>
+                <position type="integer">1</position>
+                <created-at>2023-01-26T20:14:51+01:00</created-at>
+                <updated-at>2023-01-26T20:14:57+01:00</updated-at>
+                <alt>Fur Baby Merit Badge - Sir Dogwood</alt>
+                <width type="integer">600</width>
+                <height type="integer">600</height>
+                <src>https://cdn.shopify.com/s/files/1/1137/7574/products/scouts-honour-fur-baby-merit-badge-962343_600x_532a924a-1db0-4d6c-ba62-251efbcf9011.webp?v=1674760497</src>
+                <variant-ids type="array">
+                    <variant-id type="integer">44323094233385</variant-id>
+                </variant-ids>
+            </image>
+            <image>
+                <id type="integer">40283491139881</id>
+                <product-id type="integer">8090181173545</product-id>
+                <position type="integer">2</position>
+                <created-at>2023-01-26T20:14:31+01:00</created-at>
+                <updated-at>2023-01-26T20:14:57+01:00</updated-at>
+                <alt>Fur Baby Merit Badge - Sir Dogwood</alt>
+                <width type="integer">1460</width>
+                <height type="integer">1460</height>
+                <src>https://cdn.shopify.com/s/files/1/1137/7574/products/e7080fe9dcd842a685b9fc38c05cdf279d2b1fb77cf152816f8d8b9fd68724de.webp?v=1674760497</src>
+                <variant-ids type="array"/>
+            </image>
+            <image>
+                <id type="integer">40283491041577</id>
+                <product-id type="integer">8090181173545</product-id>
+                <position type="integer">3</position>
+                <created-at>2023-01-26T20:14:29+01:00</created-at>
+                <updated-at>2023-01-26T20:14:57+01:00</updated-at>
+                <alt>Fur Baby Merit Badge - Sir Dogwood</alt>
+                <width type="integer">1460</width>
+                <height type="integer">1460</height>
+                <src>https://cdn.shopify.com/s/files/1/1137/7574/products/33557ea43a1e6dc28a82558093131f1bab5456ad2b3d11f91e0e904a69186996.webp?v=1674760497</src>
+                <variant-ids type="array"/>
+            </image>
+            <image>
+                <id type="integer">40283491172649</id>
+                <product-id type="integer">8090181173545</product-id>
+                <position type="integer">4</position>
+                <created-at>2023-01-26T20:14:32+01:00</created-at>
+                <updated-at>2023-01-26T20:14:54+01:00</updated-at>
+                <alt>Fur Baby Merit Badge - Sir Dogwood</alt>
+                <width type="integer">1460</width>
+                <height type="integer">1460</height>
+                <src>https://cdn.shopify.com/s/files/1/1137/7574/products/6263958fe0ce94abcb90a10ab72dfcf0c9165a37e6d6e2488baf73115fa91595.webp?v=1674760494</src>
+                <variant-ids type="array"/>
+            </image>
+        </images>
+        <image>
+            <id type="integer">40283492253993</id>
+            <product-id type="integer">8090181173545</product-id>
+            <position type="integer">1</position>
+            <created-at>2023-01-26T20:14:51+01:00</created-at>
+            <updated-at>2023-01-26T20:14:57+01:00</updated-at>
+            <alt>Fur Baby Merit Badge - Sir Dogwood</alt>
+            <width type="integer">600</width>
+            <height type="integer">600</height>
+            <src>https://cdn.shopify.com/s/files/1/1137/7574/products/scouts-honour-fur-baby-merit-badge-962343_600x_532a924a-1db0-4d6c-ba62-251efbcf9011.webp?v=1674760497</src>
+            <variant-ids type="array">
+                <variant-id type="integer">44323094233385</variant-id>
+            </variant-ids>
+        </image>
+    </product>
+    <product>
+        <id type="integer">6549870215270</id>
+        <title>Georgia Dog Bandana</title>
+        <body-html>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span data-mce-fragment=&quot;1&quot;&gt;A vibrant rose print stands out against an emerald green background by artist Cassidy Demkov. Printed with low-impact, organic dyes on 100% GOTS-certified organic cotton sateen.&lt;/span&gt;&lt;/p&gt;
+            &lt;ul&gt;
+            &lt;li&gt;Unique triangle-tie shape makes this bandana easy to tie on (no folding needed)&lt;/li&gt;
+            &lt;li&gt;100% GOTS-certified organic cotton, printed with low-impact organic dyes&lt;/li&gt;
+            &lt;li&gt;Navy blue merrow hem&lt;/li&gt;
+            &lt;li&gt;Made in the USA with love&lt;/li&gt;
+            &lt;li&gt;
+            &lt;meta charset=&quot;utf-8&quot;&gt;
+            &lt;span&gt;Machine wash cold, air dry flat&lt;/span&gt;
+            &lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;p&gt;&lt;span&gt;Please measure your dog&apos;s neck to ensure a perfect fit. When in doubt, size up!&lt;/span&gt;&lt;/p&gt;
+            &lt;ul&gt;
+            &lt;li&gt;&lt;span&gt;Small: Fits necks up to 13&quot;, measures 7&quot; top to point&lt;/span&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;span&gt;Medium: Fits necks up to 17&quot;, measures 9.5&quot; top to point&lt;/span&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;span&gt;Large: Fits necks up to 22&quot;, measures 11.5&quot; top to point&lt;/span&gt;&lt;/li&gt;
+            &lt;/ul&gt;</body-html>
+        <vendor>The Foggy Dog</vendor>
+        <product-type>Scarves</product-type>
+        <created-at>2021-03-23T22:43:42+01:00</created-at>
+        <handle>georgia-dog-bandana</handle>
+        <updated-at>2025-06-10T18:25:20+02:00</updated-at>
+        <published-at>2025-01-03T12:33:41+01:00</published-at>
+        <template-suffix></template-suffix>
+        <published-scope>global</published-scope>
+        <tags>bandana, floral, floralfind, green, laborday, scarf, teal</tags>
+        <variants type="array">
+            <variant>
+                <id type="integer">39274301620326</id>
+                <product-id type="integer">6549870215270</product-id>
+                <title>S / Green Floral</title>
+                <price>26.00</price>
+                <sku>FDGESCGR02</sku>
+                <position type="integer">1</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price></compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>S</option1>
+                <option2>Green Floral</option2>
+                <option3 nil="true"/>
+                <created-at>2021-03-23T22:43:42+01:00</created-at>
+                <updated-at>2025-06-10T18:25:20+02:00</updated-at>
+                <taxable type="boolean">true</taxable>
+                <barcode></barcode>
+                <grams type="integer">0</grams>
+                <image-id type="integer">27989790621798</image-id>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">2</inventory-quantity>
+                <old-inventory-quantity type="integer">2</old-inventory-quantity>
+                <requires-shipping type="boolean">true</requires-shipping>
+            </variant>
+            <variant>
+                <id type="integer">39274301653094</id>
+                <product-id type="integer">6549870215270</product-id>
+                <title>M / Green Floral</title>
+                <price>26.00</price>
+                <sku>FDGESCGR03</sku>
+                <position type="integer">2</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price></compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>M</option1>
+                <option2>Green Floral</option2>
+                <option3 nil="true"/>
+                <created-at>2021-03-23T22:43:42+01:00</created-at>
+                <updated-at>2025-06-10T18:25:20+02:00</updated-at>
+                <taxable type="boolean">true</taxable>
+                <barcode></barcode>
+                <grams type="integer">0</grams>
+                <image-id type="integer">27989790621798</image-id>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">0</inventory-quantity>
+                <old-inventory-quantity type="integer">0</old-inventory-quantity>
+                <requires-shipping type="boolean">true</requires-shipping>
+            </variant>
+            <variant>
+                <id type="integer">39274301685862</id>
+                <product-id type="integer">6549870215270</product-id>
+                <title>L / Green Floral</title>
+                <price>26.00</price>
+                <sku>FDGESCGR04</sku>
+                <position type="integer">3</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price></compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>L</option1>
+                <option2>Green Floral</option2>
+                <option3 nil="true"/>
+                <created-at>2021-03-23T22:43:42+01:00</created-at>
+                <updated-at>2025-06-10T18:25:20+02:00</updated-at>
+                <taxable type="boolean">true</taxable>
+                <barcode></barcode>
+                <grams type="integer">0</grams>
+                <image-id type="integer">27989790621798</image-id>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">2</inventory-quantity>
+                <old-inventory-quantity type="integer">2</old-inventory-quantity>
+                <requires-shipping type="boolean">true</requires-shipping>
+            </variant>
+        </variants>
+        <options type="array">
+            <option>
+                <id type="integer">8426164846694</id>
+                <product-id type="integer">6549870215270</product-id>
+                <name>Size</name>
+                <position type="integer">1</position>
+                <values type="array">
+                    <value>S</value>
+                    <value>M</value>
+                    <value>L</value>
+                </values>
+            </option>
+            <option>
+                <id type="integer">8426164879462</id>
+                <product-id type="integer">6549870215270</product-id>
+                <name>Color</name>
+                <position type="integer">2</position>
+                <values type="array">
+                    <value>Green Floral</value>
+                </values>
+            </option>
+        </options>
+        <images type="array">
+            <image>
+                <id type="integer">27989790621798</id>
+                <product-id type="integer">6549870215270</product-id>
+                <position type="integer">1</position>
+                <created-at>2021-03-23T22:44:14+01:00</created-at>
+                <updated-at>2021-03-27T00:29:52+01:00</updated-at>
+                <alt>Georgia Dog Bandana - Sir Dogwood</alt>
+                <width type="integer">500</width>
+                <height type="integer">500</height>
+                <src>https://cdn.shopify.com/s/files/1/1137/7574/products/georgia-dog-bandana-from-the-foggy-dog-729627_550x550_13714785-728a-4563-9ad7-05186c253ad2.jpg?v=1616801392</src>
+                <variant-ids type="array">
+                    <variant-id type="integer">39274301620326</variant-id>
+                    <variant-id type="integer">39274301653094</variant-id>
+                    <variant-id type="integer">39274301685862</variant-id>
+                </variant-ids>
+            </image>
+        </images>
+        <image>
+            <id type="integer">27989790621798</id>
+            <product-id type="integer">6549870215270</product-id>
+            <position type="integer">1</position>
+            <created-at>2021-03-23T22:44:14+01:00</created-at>
+            <updated-at>2021-03-27T00:29:52+01:00</updated-at>
+            <alt>Georgia Dog Bandana - Sir Dogwood</alt>
+            <width type="integer">500</width>
+            <height type="integer">500</height>
+            <src>https://cdn.shopify.com/s/files/1/1137/7574/products/georgia-dog-bandana-from-the-foggy-dog-729627_550x550_13714785-728a-4563-9ad7-05186c253ad2.jpg?v=1616801392</src>
+            <variant-ids type="array">
+                <variant-id type="integer">39274301620326</variant-id>
+                <variant-id type="integer">39274301653094</variant-id>
+                <variant-id type="integer">39274301685862</variant-id>
+            </variant-ids>
+        </image>
+    </product>
+    
+</products>
