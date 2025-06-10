@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+    <id type="integer">8010883236097</id>
+    <title>Mochi Kids Lumpia</title>
+    <body-html>&lt;p&gt;Lumpia is Filipino Soul Food.  You will see it on tables at every party and it is a delicious rolled cylanders of love.&lt;/p&gt;
+        &lt;p&gt;The Mochi Kids Lumpia tee is screen printed on a super soft triblend tee made in Los Angeles. Machine wash inside out tumble dry Since each garment is hand printed, some slight variations and imperfections may exist. Size and location of image may vary slightly from garment to garment.&lt;/p&gt;</body-html>
+    <vendor>Mochi Kids</vendor>
+    <product-type>Clothing - Toddler</product-type>
+    <created-at>2023-05-21T15:21:47-04:00</created-at>
+    <handle>mochi-kids-lumpia-baby-kid-adult-tee</handle>
+    <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+    <published-at>2023-06-29T13:28:15-04:00</published-at>
+    <template-suffix nil="true"/>
+    <published-scope>global</published-scope>
+    <tags>Excluded from Discount, Sale</tags>
+    <variants type="array">
+        <variant>
+            <id type="integer">43899717943553</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>3-6M</title>
+            <price>32.00</price>
+            <sku>SKU0001</sku>
+            <position type="integer">1</position>
+            <compare-at-price></compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>3-6M</option1>
+            <option2>Red</option2>
+            <option3 nil="true"/>
+            <created-at>2023-05-21T15:21:47-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>17943553</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+        <variant>
+            <id type="integer">43944231338241</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>6-12M</title>
+            <price>32.00</price>
+            <sku>SKU0002</sku>
+            <position type="integer">2</position>
+            <compare-at-price></compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>6-12M</option1>
+            <option2>Teal</option2>
+            <option3 nil="true"/>
+            <created-at>2023-06-28T14:53:45-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>31338241</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+        <variant>
+            <id type="integer">43944231567617</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>12-18M</title>
+            <price>32.00</price>
+            <sku>SKU0003</sku>
+            <position type="integer">3</position>
+            <compare-at-price></compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>12-18M</option1>
+            <option2>Red</option2>
+            <option3 nil="true"/>
+            <created-at>2023-06-28T14:54:19-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>31567617</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+        <variant>
+            <id type="integer">43944231764225</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>18-24M</title>
+            <price>32.00</price>
+            <sku>SKU0004</sku>
+            <position type="integer">4</position>
+            <compare-at-price></compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>18-24M</option1>
+            <option2>Black</option2>
+            <option3 nil="true"/>
+            <created-at>2023-06-28T14:54:51-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>31764225</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+        <variant>
+            <id type="integer">43944232026369</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>2Y</title>
+            <price>32.00</price>
+            <sku>SKU0005</sku>
+            <position type="integer">5</position>
+            <compare-at-price></compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>2Y</option1>
+            <option2>Red</option2>
+            <option3 nil="true"/>
+            <created-at>2023-06-28T14:55:13-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>32026369</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+        <variant>
+            <id type="integer">43944232321281</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>4Y</title>
+            <price>32.00</price>
+            <sku>SKU0006</sku>
+            <position type="integer">6</position>
+            <compare-at-price></compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>4Y</option1>
+            <option2>Teal</option2>
+            <option3 nil="true"/>
+            <created-at>2023-06-28T14:55:25-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>32321281</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+        <variant>
+            <id type="integer">43944232386817</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>6Y</title>
+            <price>32.00</price>
+            <sku>SKU0007</sku>
+            <position type="integer">7</position>
+            <compare-at-price></compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>6Y</option1>
+            <option2>Teal</option2>
+            <option3 nil="true"/>
+            <created-at>2023-06-28T14:55:40-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>32386817</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+        <variant>
+            <id type="integer">43964685058305</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>10 Y</title>
+            <price>22.40</price>
+            <sku>SKU0008</sku>
+            <position type="integer">8</position>
+            <compare-at-price>32.00</compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>10 Y</option1>
+            <option2>Teal</option2>
+            <option3 nil="true"/>
+            <created-at>2023-07-19T15:41:25-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>85058305</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+        <variant>
+            <id type="integer">43964685648129</id>
+            <product-id type="integer">8010883236097</product-id>
+            <title>12 Y</title>
+            <price>22.40</price>
+            <sku>SKU0009</sku>
+            <position type="integer">9</position>
+            <compare-at-price>32.00</compare-at-price>
+            <fulfillment-service>manual</fulfillment-service>
+            <inventory-management>shopify</inventory-management>
+            <option1>12 Y</option1>
+            <option2>Red</option2>
+            <option3 nil="true"/>
+            <created-at>2023-07-19T15:41:57-04:00</created-at>
+            <updated-at>2025-06-09T10:04:24-04:00</updated-at>
+            <taxable type="boolean">true</taxable>
+            <barcode>85648129</barcode>
+            <grams type="integer">0</grams>
+            <image-id nil="true"/>
+            <weight type="float">0.0</weight>
+            <weight-unit>lb</weight-unit>
+            <requires-shipping type="boolean">true</requires-shipping>
+        </variant>
+    </variants>
+    <options type="array">
+        <option>
+            <id type="integer">10171513209089</id>
+            <product-id type="integer">8010883236097</product-id>
+            <name>size</name>
+            <position type="integer">1</position>
+            <values type="array">
+                <value>3-6M</value>
+                <value>6-12M</value>
+                <value>12-18M</value>
+                <value>18-24M</value>
+                <value>2Y</value>
+                <value>4Y</value>
+                <value>6Y</value>
+                <value>10 Y</value>
+                <value>12 Y</value>
+            </values>
+        </option>
+        <option>
+            <id type="integer">10171513209089</id>
+            <product-id type="integer">8010883236097</product-id>
+            <name>color</name>
+            <position type="integer">2</position>
+            <values type="array">
+                <value>Teal</value>
+                <value>Red</value>
+                <value>Black</value>
+            </values>
+        </option>
+    </options>
+    <images type="array">
+        <image>
+            <id type="integer">40279311581441</id>
+            <product-id type="integer">8010883236097</product-id>
+            <position type="integer">1</position>
+            <created-at>2023-05-21T15:21:47-04:00</created-at>
+            <updated-at>2023-05-21T15:21:47-04:00</updated-at>
+            <alt nil="true"/>
+            <width type="integer">2900</width>
+            <height type="integer">2900</height>
+            <src>https://cdn.shopify.com/images/main-image.jpg?v=1684696907</src>
+            <variant-ids type="array"/>
+        </image>
+        <image>
+            <id type="integer">39886774370538</id>
+            <product-id type="integer">8244664271082</product-id>
+            <position type="integer">2</position>
+            <created-at>2024-03-18T05:57:41-04:00</created-at>
+            <updated-at>2025-06-09T01:29:20-04:00</updated-at>
+            <alt>color:all</alt>
+            <width type="integer">830</width>
+            <height type="integer">1038</height>
+            <src>https://cdn.shopify.com/images/alt-image00.jpg?v=1749446960</src>
+            <variant-ids type="array"/>
+        </image>
+        <image>
+            <id type="integer">39886774337770</id>
+            <product-id type="integer">8244664271082</product-id>
+            <position type="integer">3</position>
+            <created-at>2024-03-18T05:57:41-04:00</created-at>
+            <updated-at>2025-06-09T01:29:20-04:00</updated-at>
+            <alt>color:all</alt>
+            <width type="integer">830</width>
+            <height type="integer">1038</height>
+            <src>https://cdn.shopify.com/images/alt-image01.jpg?v=1749446960</src>
+            <variant-ids type="array"/>
+        </image>
+        <image>
+            <id type="integer">39886774305002</id>
+            <product-id type="integer">8244664271082</product-id>
+            <position type="integer">4</position>
+            <created-at>2024-03-18T05:57:41-04:00</created-at>
+            <updated-at>2025-06-09T01:29:20-04:00</updated-at>
+            <alt>color:all</alt>
+            <width type="integer">830</width>
+            <height type="integer">1038</height>
+            <src>https://cdn.shopify.com/images/alt-image02.jpg?v=1749446960</src>
+            <variant-ids type="array"/>
+        </image>
+        <image>
+            <id type="integer">39738158219498</id>
+            <product-id type="integer">8244664271082</product-id>
+            <position type="integer">5</position>
+            <created-at>2024-01-28T22:40:48-05:00</created-at>
+            <updated-at>2025-06-09T01:29:20-04:00</updated-at>
+            <alt>color:all</alt>
+            <width type="integer">2000</width>
+            <height type="integer">2276</height>
+            <src>https://cdn.shopify.com/images/alt-image03.jpg?v=1749446960</src>
+            <variant-ids type="array"/>
+        </image>
+        <image>
+            <id type="integer">39738158350570</id>
+            <product-id type="integer">8244664271082</product-id>
+            <position type="integer">6</position>
+            <created-at>2024-01-28T22:40:48-05:00</created-at>
+            <updated-at>2025-06-09T01:29:20-04:00</updated-at>
+            <alt>color:all</alt>
+            <width type="integer">2000</width>
+            <height type="integer">2276</height>
+            <src>https://cdn.shopify.com/images/alt-image04.jpg?v=1749446960</src>
+            <variant-ids type="array"/>
+        </image>
+        <image>
+            <id type="integer">39738158285034</id>
+            <product-id type="integer">8244664271082</product-id>
+            <position type="integer">7</position>
+            <created-at>2024-01-28T22:40:48-05:00</created-at>
+            <updated-at>2025-06-09T01:29:20-04:00</updated-at>
+            <alt>color:all</alt>
+            <width type="integer">2000</width>
+            <height type="integer">2276</height>
+            <src>https://cdn.shopify.com/images/alt-image05.jpg?v=1749446960</src>
+            <variant-ids type="array"/>
+        </image>
+    </images>
+    <image>
+        <id type="integer">40279311581441</id>
+        <product-id type="integer">8010883236097</product-id>
+        <position type="integer">1</position>
+        <created-at>2023-05-21T15:21:47-04:00</created-at>
+        <updated-at>2023-05-21T15:21:47-04:00</updated-at>
+        <alt nil="true"/>
+        <width type="integer">2900</width>
+        <height type="integer">2900</height>
+        <src>https://cdn.shopify.com/images/main-image.jpg?v=1684696907</src>
+        <variant-ids type="array"/>
+    </image>
+</product>
