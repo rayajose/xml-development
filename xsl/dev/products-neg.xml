@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id type="integer">8304658677937</id>
+        <title>Base Boy Short in Shadow (Pack)</title>
+        <body-html>&lt;p&gt;&lt;strong&gt;Classic boyshort. Easy stretch.
+            x5.&lt;/strong&gt;&lt;br&gt;&lt;meta charset=&quot;utf-8&quot;&gt;A 5 pack featuring
+            Black, Buff, Lilac, Mink, and Storm. A no-show low-rise boyshort that sits invisibly
+            under clothes. &lt;/p&gt; &lt;p&gt;*411*&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Depending on how
+            much coverage you like, size up or down accordingly&lt;/li&gt;
+            &lt;li&gt;&lt;span&gt;Features a freecut, no stitch leg. &lt;/span&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;span&gt;Sits at low hip and has no show coverage in the
+            back&lt;/span&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;*FABRIC*&lt;/p&gt; &lt;ul&gt;
+            &lt;li&gt;A lightweight, barely-there fabric with bonded seams that add a no-show look
+            and feel.&lt;br&gt; &lt;/li&gt; &lt;li&gt;50% Nylon, 50% Lycra&lt;/li&gt; &lt;li&gt;
+            &lt;meta charset=&quot;utf-8&quot;&gt;5 pack includes: 1 Black, 1 Buff, 1 Lilac, 1 Mink,
+            1 Storm&lt;/li&gt; &lt;li&gt;&lt;span&gt;Machine wash warm, no bleach, tumble dry low,
+            wear often. &lt;/span&gt;&lt;/li&gt; &lt;/ul&gt;</body-html>
+        <vendor>My Garments</vendor>
+        <product-type>Underwear</product-type>
+        <created-at>2025-04-29T10:16:53-04:00</created-at>
+        <handle>shadow-base-boy-short</handle>
+        <updated-at>2025-06-11T12:17:00-04:00</updated-at>
+        <published-at>2025-05-06T15:43:55-04:00</published-at>
+        <template-suffix nil="true"/>
+        <published-scope>global</published-scope>
+        <tags>base, Boxers Boy Shorts, Boy Short, Boyshort, invisible, newcolor-shadow, no show,
+            seamless, season:su-2025, sizechart-bottoms, Underwear</tags>
+        <variants type="array">
+            <variant>
+                <id type="integer">45449635037361</id>
+                <product-id type="integer">8304658677937</product-id>
+                <title>XS / Shadow / 5-pack</title>
+                <price>116.00</price>
+                <sku>NK-106-089BS2-0-5</sku>
+                <position type="integer">1</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price>140.00</compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>XS</option1>
+                <option2>Shadow</option2>
+                <option3>5-pack</option3>
+                <created-at>2025-04-29T10:16:53-04:00</created-at>
+                <updated-at>2025-06-11T12:17:00-04:00</updated-at>
+                <taxable type="boolean">false</taxable>
+                <barcode>840285832084</barcode>
+                <grams type="integer">0</grams>
+                <image-id nil="true"/>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">59</inventory-quantity>
+                <old-inventory-quantity type="integer">59</old-inventory-quantity>
+                <tax-code/>
+                <requires-shipping type="boolean">true</requires-shipping>
+                <quantity-rule>
+                    <min>1</min>
+                    <max nil="true"/>
+                    <increment>1</increment>
+                </quantity-rule>
+                <quantity-price-breaks type="array"/>
+            </variant>
+            <variant>
+                <id type="integer">45449635070129</id>
+                <product-id type="integer">8304658677937</product-id>
+                <title>S / Shadow / 5-pack</title>
+                <price>116.00</price>
+                <sku>NK-106-089BS2-1-5</sku>
+                <position type="integer">2</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price>140.00</compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>S</option1>
+                <option2>Shadow</option2>
+                <option3>5-pack</option3>
+                <created-at>2025-04-29T10:16:53-04:00</created-at>
+                <updated-at>2025-06-11T12:17:00-04:00</updated-at>
+                <taxable type="boolean">false</taxable>
+                <barcode>840285832091</barcode>
+                <grams type="integer">0</grams>
+                <image-id nil="true"/>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">133</inventory-quantity>
+                <old-inventory-quantity type="integer">133</old-inventory-quantity>
+                <tax-code/>
+                <requires-shipping type="boolean">true</requires-shipping>
+                <quantity-rule>
+                    <min>1</min>
+                    <max nil="true"/>
+                    <increment>1</increment>
+                </quantity-rule>
+                <quantity-price-breaks type="array"/>
+            </variant>
+            <variant>
+                <id type="integer">45449635102897</id>
+                <product-id type="integer">8304658677937</product-id>
+                <title>M / Shadow / 5-pack</title>
+                <price>116.00</price>
+                <sku>NK-106-089BS2-2-5</sku>
+                <position type="integer">3</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price>140.00</compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>M</option1>
+                <option2>Shadow</option2>
+                <option3>5-pack</option3>
+                <created-at>2025-04-29T10:16:53-04:00</created-at>
+                <updated-at>2025-06-11T12:17:00-04:00</updated-at>
+                <taxable type="boolean">false</taxable>
+                <barcode>840285832107</barcode>
+                <grams type="integer">0</grams>
+                <image-id nil="true"/>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">134</inventory-quantity>
+                <old-inventory-quantity type="integer">134</old-inventory-quantity>
+                <tax-code/>
+                <requires-shipping type="boolean">true</requires-shipping>
+                <quantity-rule>
+                    <min>1</min>
+                    <max nil="true"/>
+                    <increment>1</increment>
+                </quantity-rule>
+                <quantity-price-breaks type="array"/>
+            </variant>
+            <variant>
+                <id type="integer">45449635135665</id>
+                <product-id type="integer">8304658677937</product-id>
+                <title>L / Shadow / 5-pack</title>
+                <price>116.00</price>
+                <sku>NK-106-089BS2-3-5</sku>
+                <position type="integer">4</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price>140.00</compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>L</option1>
+                <option2>Shadow</option2>
+                <option3>5-pack</option3>
+                <created-at>2025-04-29T10:16:53-04:00</created-at>
+                <updated-at>2025-06-11T12:17:00-04:00</updated-at>
+                <taxable type="boolean">false</taxable>
+                <barcode>840285832114</barcode>
+                <grams type="integer">0</grams>
+                <image-id nil="true"/>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">76</inventory-quantity>
+                <old-inventory-quantity type="integer">76</old-inventory-quantity>
+                <tax-code/>
+                <requires-shipping type="boolean">true</requires-shipping>
+                <quantity-rule>
+                    <min>1</min>
+                    <max nil="true"/>
+                    <increment>1</increment>
+                </quantity-rule>
+                <quantity-price-breaks type="array"/>
+            </variant>
+            <variant>
+                <id type="integer">45449635168433</id>
+                <product-id type="integer">8304658677937</product-id>
+                <title>XL / Shadow / 5-pack</title>
+                <price>116.00</price>
+                <sku>NK-106-089BS2-4-5</sku>
+                <position type="integer">5</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price>140.00</compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>XL</option1>
+                <option2>Shadow</option2>
+                <option3>5-pack</option3>
+                <created-at>2025-04-29T10:16:53-04:00</created-at>
+                <updated-at>2025-06-11T12:17:00-04:00</updated-at>
+                <taxable type="boolean">false</taxable>
+                <barcode>840285832121</barcode>
+                <grams type="integer">0</grams>
+                <image-id nil="true"/>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">43</inventory-quantity>
+                <old-inventory-quantity type="integer">43</old-inventory-quantity>
+                <tax-code/>
+                <requires-shipping type="boolean">true</requires-shipping>
+                <quantity-rule>
+                    <min>1</min>
+                    <max nil="true"/>
+                    <increment>1</increment>
+                </quantity-rule>
+                <quantity-price-breaks type="array"/>
+            </variant>
+            <variant>
+                <id type="integer">45449635233969</id>
+                <product-id type="integer">8304658677937</product-id>
+                <title>XXL / Shadow / 5-pack</title>
+                <price>116.00</price>
+                <sku>NK-106-089BS2-5-5</sku>
+                <position type="integer">6</position>
+                <inventory-policy>deny</inventory-policy>
+                <compare-at-price>140.00</compare-at-price>
+                <fulfillment-service>manual</fulfillment-service>
+                <inventory-management>shopify</inventory-management>
+                <option1>XXL</option1>
+                <option2>Shadow</option2>
+                <option3>5-pack</option3>
+                <created-at>2025-04-29T10:16:53-04:00</created-at>
+                <updated-at>2025-06-11T12:17:00-04:00</updated-at>
+                <taxable type="boolean">false</taxable>
+                <barcode>840285832138</barcode>
+                <grams type="integer">0</grams>
+                <image-id nil="true"/>
+                <weight type="float">0.0</weight>
+                <weight-unit>lb</weight-unit>
+                <inventory-quantity type="integer">11</inventory-quantity>
+                <old-inventory-quantity type="integer">11</old-inventory-quantity>
+                <tax-code/>
+                <requires-shipping type="boolean">true</requires-shipping>
+                <quantity-rule>
+                    <min>1</min>
+                    <max nil="true"/>
+                    <increment>1</increment>
+                </quantity-rule>
+                <quantity-price-breaks type="array"/>
+            </variant>
+        </variants>
+        <options type="array">
+            <option>
+                <id type="integer">10535499333809</id>
+                <product-id type="integer">8304658677937</product-id>
+                <name>Size</name>
+                <position type="integer">1</position>
+                <values type="array">
+                    <value>XS</value>
+                    <value>S</value>
+                    <value>M</value>
+                    <value>L</value>
+                    <value>XL</value>
+                    <value>XXL</value>
+                </values>
+            </option>
+            <option>
+                <id type="integer">10535499366577</id>
+                <product-id type="integer">8304658677937</product-id>
+                <name>Color</name>
+                <position type="integer">2</position>
+                <values type="array">
+                    <value>Shadow</value>
+                </values>
+            </option>
+            <option>
+                <id type="integer">10535499432113</id>
+                <product-id type="integer">8304658677937</product-id>
+                <name>Quantity</name>
+                <position type="integer">3</position>
+                <values type="array">
+                    <value>5-pack</value>
+                </values>
+            </option>
+        </options>
+        <images type="array">
+            <image>
+                <id type="integer">38862722597041</id>
+                <product-id type="integer">8304658677937</product-id>
+                <position type="integer">1</position>
+                <created-at>2025-05-05T17:48:32-04:00</created-at>
+                <updated-at>2025-05-05T17:48:33-04:00</updated-at>
+                <alt>Base Boy Short in Shadow 5 Pack</alt>
+                <width type="integer">1362</width>
+                <height type="integer">2044</height>
+                <src>https://cdn.shopify.com/s/files/1/0221/4866/files/Flat_Base_High_Rise_Brief_Black_copy.jpg?v=1746481713</src>
+                <variant-ids type="array"/>
+            </image>
+            <image>
+                <id type="integer">38871978606769</id>
+                <product-id type="integer">8304658677937</product-id>
+                <position type="integer">2</position>
+                <created-at>2025-05-06T15:24:51-04:00</created-at>
+                <updated-at>2025-05-06T15:24:52-04:00</updated-at>
+                <alt>Base Boy Short in Shadow Pack- Black</alt>
+                <width type="integer">681</width>
+                <height type="integer">1022</height>
+                <src>https://cdn.shopify.com/s/files/1/0221/4866/files/Bottom_BaseBoyShort_Black_Victoria_02_e0591511-9c57-4575-8837-90727461d34f.jpg?v=1746559492</src>
+                <variant-ids type="array"/>
+            </image>
+            <image>
+                <id type="integer">38871978836145</id>
+                <product-id type="integer">8304658677937</product-id>
+                <position type="integer">3</position>
+                <created-at>2025-05-06T15:24:58-04:00</created-at>
+                <updated-at>2025-05-06T15:26:14-04:00</updated-at>
+                <alt>Base Boy Short in Shadow Pack - Storm</alt>
+                <width type="integer">1362</width>
+                <height type="integer">2044</height>
+                <src>https://cdn.shopify.com/s/files/1/0221/4866/files/Underwear_BaseBoyShort_Navy_Ksenia_03_c3a70603-7779-4810-93f3-23b4177408b1.jpg?v=1746559574</src>
+                <variant-ids type="array"/>
+            </image>
+            <image>
+                <id type="integer">38871978803377</id>
+                <product-id type="integer">8304658677937</product-id>
+                <position type="integer">4</position>
+                <created-at>2025-05-06T15:24:58-04:00</created-at>
+                <updated-at>2025-05-06T15:26:14-04:00</updated-at>
+                <alt>Base Boy Short in Shadow Pack - Mink</alt>
+                <width type="integer">1362</width>
+                <height type="integer">2044</height>
+                <src>https://cdn.shopify.com/s/files/1/0221/4866/files/Underwear_BaseBoyShort_Mushroom_Thessica_03_3df27a3a-c356-42f6-a8a9-d88bf6958ed4.jpg?v=1746559574</src>
+                <variant-ids type="array"/>
+            </image>
+            <image>
+                <id type="integer">38871978574001</id>
+                <product-id type="integer">8304658677937</product-id>
+                <position type="integer">5</position>
+                <created-at>2025-05-06T15:24:51-04:00</created-at>
+                <updated-at>2025-05-06T15:26:14-04:00</updated-at>
+                <alt>Base Boy Short in Shadow Pack - Buff</alt>
+                <width type="integer">681</width>
+                <height type="integer">1023</height>
+                <src>https://cdn.shopify.com/s/files/1/0221/4866/files/Bottom_BaseBoyShort_Buff_Ksenia_03_8474fe76-5205-4592-b094-868fd5816c20.jpg?v=1746559574</src>
+                <variant-ids type="array"/>
+            </image>
+            <image>
+                <id type="integer">38871978868913</id>
+                <product-id type="integer">8304658677937</product-id>
+                <position type="integer">6</position>
+                <created-at>2025-05-06T15:24:58-04:00</created-at>
+                <updated-at>2025-05-06T15:25:00-04:00</updated-at>
+                <alt>Base Boy Short in Shadow Pack - Lilac</alt>
+                <width type="integer">1362</width>
+                <height type="integer">2044</height>
+                <src>https://cdn.shopify.com/s/files/1/0221/4866/files/Underwear_BaseBoyShort_Lilac_01_705a4a86-bb17-4ae8-bac6-04b95552fcb7.jpg?v=1746559500</src>
+                <variant-ids type="array"/>
+            </image>
+        </images>
+        <image>
+            <id type="integer">38862722597041</id>
+            <product-id type="integer">8304658677937</product-id>
+            <position type="integer">1</position>
+            <created-at>2025-05-05T17:48:32-04:00</created-at>
+            <updated-at>2025-05-05T17:48:33-04:00</updated-at>
+            <alt>Base Boy Short in Shadow 5 Pack</alt>
+            <width type="integer">1362</width>
+            <height type="integer">2044</height>
+            <src>https://cdn.shopify.com/s/files/1/0221/4866/files/Flat_Base_High_Rise_Brief_Black_copy.jpg?v=1746481713</src>
+            <variant-ids type="array"/>
+        </image>
+    </product>
+</products>

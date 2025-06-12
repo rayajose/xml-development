@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id type="integer">7925401944251</id>
+  <title>Lata Hand-Knotted Area Rug</title>
+  <body-html>&lt;p&gt;Introducing the rug that gets along with everyone. Effortless, elegant, and everything you need, this hand-knotted rug features neutral shade with stripes of thicker, raised wool, creating an allover natural pattern that mixes with any aesthetic. Finished off with a short fringe on either side, this rug stuns with simplicity.&lt;/p&gt;
+&lt;p&gt;Crafted in the Carpet Belt of India, every rug is hand-knotted over days at a workshop in Chedibeer. The work of a collective of over 60 artisans, every piece is made start to finish in a fair trade environment.&lt;/p&gt;
+&lt;p&gt;We recommend a &lt;a href=&quot;https://www.the-citizenry.com/products/rug-pad&quot; title=&quot;Rug Pad&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;rug pad&lt;/a&gt; to prevent wrinkles and slippage.&lt;/p&gt;
+&lt;p&gt;Not sure what size you need? Visit our &lt;a href=&quot;https://the-citizenry.myshopify.com/pages/rug-size-and-style-guide&quot; title=&quot;Rug Size &amp;amp; Style Guide&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;Rug Size and Style Guide&lt;/a&gt; for more information.&lt;/p&gt;</body-html>
+  <vendor>Ships Once Available</vendor>
+  <product-type>Rugs</product-type>
+  <created-at>2024-03-01T14:44:38-07:00</created-at>
+  <handle>lata-hand-knotted-area-rug</handle>
+  <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+  <published-at>2024-03-13T08:03:44-06:00</published-at>
+  <template-suffix nil="true"/>
+  <published-scope>global</published-scope>
+  <tags>10x14, 6x9, 8x10, 9x12, alt_shipping, AnniversarySale2024, Artisan:WeaversofPiyari, category_Rugs, country_India, CZonID, discount-allowed, event:4thofJuly, event:BFCM2024, event:LaborDay2024, InteriorDefine, material_Wool, normal, refund_fee: 5000, regular, shipping:Oversized, size_10&apos; x 14&apos;, size_6&apos; x 9&apos;, size_8&apos; x 10&apos;, size_9&apos; x 12&apos;, Spring2024, Spring2025, Store_CO1, Store_NY1, Type_Hand-Knotted, type_Textured Wool, yes-facebook</tags>
+  <variants type="array">
+    <variant>
+      <id type="integer">45579455660219</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Taupe / 6&apos; x 9&apos;</title>
+      <price>999.00</price>
+      <sku>R141012-05</sku>
+      <position type="integer">1</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Taupe</option1>
+      <option2>6&apos; x 9&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2024-03-01T14:44:38-07:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810139868811</barcode>
+      <grams type="integer">14903</grams>
+      <image-id type="integer">35329360822459</image-id>
+      <weight type="float">32.8545</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">7</inventory-quantity>
+      <old-inventory-quantity type="integer">7</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">45579455692987</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Taupe / 8&apos; x 10&apos;</title>
+      <price>1499.00</price>
+      <sku>R141012-06</sku>
+      <position type="integer">2</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Taupe</option1>
+      <option2>8&apos; x 10&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2024-03-01T14:44:38-07:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810139868828</barcode>
+      <grams type="integer">22004</grams>
+      <image-id type="integer">35329360822459</image-id>
+      <weight type="float">48.51</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">8</inventory-quantity>
+      <old-inventory-quantity type="integer">8</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">45579455725755</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Taupe / 9&apos; x 12&apos;</title>
+      <price>1899.00</price>
+      <sku>R141012-07</sku>
+      <position type="integer">3</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Taupe</option1>
+      <option2>9&apos; x 12&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2024-03-01T14:44:38-07:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810139868835</barcode>
+      <grams type="integer">29705</grams>
+      <image-id type="integer">35329360822459</image-id>
+      <weight type="float">65.4885</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">12</inventory-quantity>
+      <old-inventory-quantity type="integer">12</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">45579455758523</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Taupe / 10&apos; x 14&apos;</title>
+      <price>2499.00</price>
+      <sku>R141012-08</sku>
+      <position type="integer">4</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Taupe</option1>
+      <option2>10&apos; x 14&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2024-03-01T14:44:38-07:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810139868842</barcode>
+      <grams type="integer">38407</grams>
+      <image-id type="integer">35329360822459</image-id>
+      <weight type="float">84.672</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">6</inventory-quantity>
+      <old-inventory-quantity type="integer">6</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">46536891236539</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Camel / 6&apos; x 9&apos;</title>
+      <price>999.00</price>
+      <sku>R141013-01</sku>
+      <position type="integer">5</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Camel</option1>
+      <option2>6&apos; x 9&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2025-03-24T13:10:44-06:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810187754968</barcode>
+      <grams type="integer">15422</grams>
+      <image-id type="integer">37541276418235</image-id>
+      <weight type="float">34.0</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">7</inventory-quantity>
+      <old-inventory-quantity type="integer">7</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">46536891302075</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Camel / 8&apos; x 10&apos;</title>
+      <price>1499.00</price>
+      <sku>R141013-02</sku>
+      <position type="integer">6</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Camel</option1>
+      <option2>8&apos; x 10&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2025-03-24T13:10:44-06:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810187754975</barcode>
+      <grams type="integer">23496</grams>
+      <image-id type="integer">37541276418235</image-id>
+      <weight type="float">51.8</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">6</inventory-quantity>
+      <old-inventory-quantity type="integer">6</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">46536891367611</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Camel / 9&apos; x 12&apos;</title>
+      <price>1899.00</price>
+      <sku>R141013-03</sku>
+      <position type="integer">7</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Camel</option1>
+      <option2>9&apos; x 12&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2025-03-24T13:10:44-06:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810187754982</barcode>
+      <grams type="integer">29710</grams>
+      <image-id type="integer">37541276418235</image-id>
+      <weight type="float">65.5</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">3</inventory-quantity>
+      <old-inventory-quantity type="integer">3</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">46536891433147</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Camel / 10&apos; x 14&apos;</title>
+      <price>2499.00</price>
+      <sku>R141013-04</sku>
+      <position type="integer">8</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Camel</option1>
+      <option2>10&apos; x 14&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2025-03-24T13:10:44-06:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810187754999</barcode>
+      <grams type="integer">40007</grams>
+      <image-id type="integer">37541276418235</image-id>
+      <weight type="float">88.2</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">2</inventory-quantity>
+      <old-inventory-quantity type="integer">2</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">46536891269307</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Grey / 6&apos; x 9&apos;</title>
+      <price>999.00</price>
+      <sku>R141014-01</sku>
+      <position type="integer">9</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Grey</option1>
+      <option2>6&apos; x 9&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2025-03-24T13:10:44-06:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810187755002</barcode>
+      <grams type="integer">15422</grams>
+      <image-id type="integer">37541595644091</image-id>
+      <weight type="float">34.0</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">9</inventory-quantity>
+      <old-inventory-quantity type="integer">9</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">46536891334843</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Grey / 8&apos; x 10&apos;</title>
+      <price>1499.00</price>
+      <sku>R141014-02</sku>
+      <position type="integer">10</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Grey</option1>
+      <option2>8&apos; x 10&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2025-03-24T13:10:44-06:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810187755019</barcode>
+      <grams type="integer">23496</grams>
+      <image-id type="integer">37541595644091</image-id>
+      <weight type="float">51.8</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">5</inventory-quantity>
+      <old-inventory-quantity type="integer">5</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">46536891400379</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Grey / 9&apos; x 12&apos;</title>
+      <price>1899.00</price>
+      <sku>R141014-03</sku>
+      <position type="integer">11</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Grey</option1>
+      <option2>9&apos; x 12&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2025-03-24T13:10:44-06:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810187755026</barcode>
+      <grams type="integer">29710</grams>
+      <image-id type="integer">37541595644091</image-id>
+      <weight type="float">65.5</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">4</inventory-quantity>
+      <old-inventory-quantity type="integer">4</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">46536891465915</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Grey / 10&apos; x 14&apos;</title>
+      <price>2499.00</price>
+      <sku>R141014-04</sku>
+      <position type="integer">12</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Grey</option1>
+      <option2>10&apos; x 14&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2025-03-24T13:10:44-06:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810187755033</barcode>
+      <grams type="integer">40007</grams>
+      <image-id type="integer">37541595644091</image-id>
+      <weight type="float">88.2</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">1</inventory-quantity>
+      <old-inventory-quantity type="integer">1</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">45579455529147</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Beige / 6&apos; x 9&apos;</title>
+      <price>999.00</price>
+      <sku>R141011-05</sku>
+      <position type="integer">13</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Beige</option1>
+      <option2>6&apos; x 9&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2024-03-01T14:44:38-07:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810139868774</barcode>
+      <grams type="integer">14903</grams>
+      <image-id type="integer">35329360658619</image-id>
+      <weight type="float">32.8545</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">7</inventory-quantity>
+      <old-inventory-quantity type="integer">7</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">45579455561915</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Beige / 8&apos; x 10&apos;</title>
+      <price>1499.00</price>
+      <sku>R141011-06</sku>
+      <position type="integer">14</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Beige</option1>
+      <option2>8&apos; x 10&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2024-03-01T14:44:38-07:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810139868781</barcode>
+      <grams type="integer">22004</grams>
+      <image-id type="integer">35329360658619</image-id>
+      <weight type="float">48.51</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">6</inventory-quantity>
+      <old-inventory-quantity type="integer">6</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">45579455594683</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Beige / 9&apos; x 12&apos;</title>
+      <price>1899.00</price>
+      <sku>R141011-07</sku>
+      <position type="integer">15</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Beige</option1>
+      <option2>9&apos; x 12&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2024-03-01T14:44:38-07:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810139868798</barcode>
+      <grams type="integer">29705</grams>
+      <image-id type="integer">35329360658619</image-id>
+      <weight type="float">65.4885</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">6</inventory-quantity>
+      <old-inventory-quantity type="integer">6</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+    <variant>
+      <id type="integer">45579455627451</id>
+      <product-id type="integer">7925401944251</product-id>
+      <title>Beige / 10&apos; x 14&apos;</title>
+      <price>2499.00</price>
+      <sku>R141011-08</sku>
+      <position type="integer">16</position>
+      <inventory-policy>deny</inventory-policy>
+      <compare-at-price></compare-at-price>
+      <fulfillment-service>manual</fulfillment-service>
+      <inventory-management>shopify</inventory-management>
+      <option1>Beige</option1>
+      <option2>10&apos; x 14&apos;</option2>
+      <option3 nil="true"/>
+      <created-at>2024-03-01T14:44:38-07:00</created-at>
+      <updated-at>2025-06-11T09:46:46-06:00</updated-at>
+      <taxable type="boolean">true</taxable>
+      <barcode>810139868804</barcode>
+      <grams type="integer">38407</grams>
+      <image-id type="integer">35329360658619</image-id>
+      <weight type="float">84.672</weight>
+      <weight-unit>lb</weight-unit>
+      <inventory-quantity type="integer">1</inventory-quantity>
+      <old-inventory-quantity type="integer">1</old-inventory-quantity>
+      <tax-code></tax-code>
+      <requires-shipping type="boolean">true</requires-shipping>
+      <quantity-rule><min>1</min><max nil="true"/><increment>1</increment></quantity-rule>
+      <quantity-price-breaks type="array"/>
+    </variant>
+  </variants>
+  <options type="array">
+    <option>
+      <id type="integer">10037324644539</id>
+      <product-id type="integer">7925401944251</product-id>
+      <name>Color</name>
+      <position type="integer">1</position>
+      <values type="array">
+        <value>Taupe</value>
+        <value>Camel</value>
+        <value>Grey</value>
+        <value>Beige</value>
+      </values>
+    </option>
+    <option>
+      <id type="integer">10037324611771</id>
+      <product-id type="integer">7925401944251</product-id>
+      <name>Size</name>
+      <position type="integer">2</position>
+      <values type="array">
+        <value>6&apos; x 9&apos;</value>
+        <value>8&apos; x 10&apos;</value>
+        <value>9&apos; x 12&apos;</value>
+        <value>10&apos; x 14&apos;</value>
+      </values>
+    </option>
+  </options>
+  <images type="array">
+    <image>
+      <id type="integer">35329360822459</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">1</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-18T12:34:36-06:00</updated-at>
+      <alt>taupe</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Taupe_1.jpg?v=1710786876</src>
+      <variant-ids type="array">
+        <variant-id type="integer">45579455660219</variant-id>
+        <variant-id type="integer">45579455692987</variant-id>
+        <variant-id type="integer">45579455725755</variant-id>
+        <variant-id type="integer">45579455758523</variant-id>
+      </variant-ids>
+    </image>
+    <image>
+      <id type="integer">35336584003771</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">2</position>
+      <created-at>2024-03-07T15:54:25-07:00</created-at>
+      <updated-at>2024-03-19T13:56:16-06:00</updated-at>
+      <alt>beige</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Beige_8.jpg?v=1710878176</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35336584036539</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">3</position>
+      <created-at>2024-03-07T15:54:26-07:00</created-at>
+      <updated-at>2024-03-19T13:56:16-06:00</updated-at>
+      <alt>taupe</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Taupe_5.jpg?v=1710878176</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35329360691387</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">4</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-19T13:56:16-06:00</updated-at>
+      <alt>taupe</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Taupe_2.jpg?v=1710878176</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35329360756923</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">5</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-19T13:56:16-06:00</updated-at>
+      <alt>taupe</alt>
+      <width type="integer">3545</width>
+      <height type="integer">3545</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Taupe_3.jpg?v=1710878176</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35329360593083</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">6</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-19T13:56:16-06:00</updated-at>
+      <alt>taupe</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Taupe_4.jpg?v=1710878176</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35329360658619</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">7</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-19T13:56:16-06:00</updated-at>
+      <alt>beige</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Beige_1.jpg?v=1710878176</src>
+      <variant-ids type="array">
+        <variant-id type="integer">45579455529147</variant-id>
+        <variant-id type="integer">45579455561915</variant-id>
+        <variant-id type="integer">45579455594683</variant-id>
+        <variant-id type="integer">45579455627451</variant-id>
+      </variant-ids>
+    </image>
+    <image>
+      <id type="integer">35329360625851</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">8</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-18T12:34:36-06:00</updated-at>
+      <alt>beige</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Beige_2.jpg?v=1710786876</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35336584167611</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">9</position>
+      <created-at>2024-03-07T15:54:26-07:00</created-at>
+      <updated-at>2024-03-18T12:34:36-06:00</updated-at>
+      <alt>beige</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Beige_10.jpg?v=1710786876</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35329360789691</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">10</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-18T12:34:31-06:00</updated-at>
+      <alt>beige</alt>
+      <width type="integer">3545</width>
+      <height type="integer">3545</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Beige_3.jpg?v=1710786871</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35329360887995</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">11</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-18T12:34:11-06:00</updated-at>
+      <alt>beige</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Beige_6.jpg?v=1710786851</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35329360560315</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">12</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-18T12:34:11-06:00</updated-at>
+      <alt>beige</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Beige_7.jpg?v=1710786851</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">35329360855227</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">13</position>
+      <created-at>2024-03-05T08:51:04-07:00</created-at>
+      <updated-at>2024-03-18T12:34:11-06:00</updated-at>
+      <alt>beige</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Beige_4.jpg?v=1710786851</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">37541276418235</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">14</position>
+      <created-at>2025-03-24T13:21:57-06:00</created-at>
+      <updated-at>2025-03-24T14:15:30-06:00</updated-at>
+      <alt>camel</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Camel_1_ea3c6452-2ae6-461c-aa85-0b9fc49626a8.jpg?v=1742847330</src>
+      <variant-ids type="array">
+        <variant-id type="integer">46536891236539</variant-id>
+        <variant-id type="integer">46536891302075</variant-id>
+        <variant-id type="integer">46536891367611</variant-id>
+        <variant-id type="integer">46536891433147</variant-id>
+      </variant-ids>
+    </image>
+    <image>
+      <id type="integer">37541419319483</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">15</position>
+      <created-at>2025-03-24T13:42:16-06:00</created-at>
+      <updated-at>2025-03-24T14:15:29-06:00</updated-at>
+      <alt>camel</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Camel_3.jpg?v=1742847329</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">37541419352251</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">16</position>
+      <created-at>2025-03-24T13:42:17-06:00</created-at>
+      <updated-at>2025-03-24T14:15:28-06:00</updated-at>
+      <alt>camel</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Camel_6.jpg?v=1742847328</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">37541420597435</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">17</position>
+      <created-at>2025-03-24T13:42:26-06:00</created-at>
+      <updated-at>2025-03-24T14:15:24-06:00</updated-at>
+      <alt>camel</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Camel_4.jpg?v=1742847324</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">37541595644091</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">18</position>
+      <created-at>2025-03-24T14:09:36-06:00</created-at>
+      <updated-at>2025-03-24T14:15:40-06:00</updated-at>
+      <alt>grey</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Grey_1.jpg?v=1742847340</src>
+      <variant-ids type="array">
+        <variant-id type="integer">46536891269307</variant-id>
+        <variant-id type="integer">46536891334843</variant-id>
+        <variant-id type="integer">46536891400379</variant-id>
+        <variant-id type="integer">46536891465915</variant-id>
+      </variant-ids>
+    </image>
+    <image>
+      <id type="integer">37541595578555</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">19</position>
+      <created-at>2025-03-24T14:09:35-06:00</created-at>
+      <updated-at>2025-03-24T14:15:35-06:00</updated-at>
+      <alt>grey</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Grey_3.jpg?v=1742847335</src>
+      <variant-ids type="array"/>
+    </image>
+    <image>
+      <id type="integer">37541595611323</id>
+      <product-id type="integer">7925401944251</product-id>
+      <position type="integer">20</position>
+      <created-at>2025-03-24T14:09:36-06:00</created-at>
+      <updated-at>2025-03-24T14:15:33-06:00</updated-at>
+      <alt>grey</alt>
+      <width type="integer">3600</width>
+      <height type="integer">3600</height>
+      <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Grey_4.jpg?v=1742847333</src>
+      <variant-ids type="array"/>
+    </image>
+  </images>
+  <image>
+    <id type="integer">35329360822459</id>
+    <product-id type="integer">7925401944251</product-id>
+    <position type="integer">1</position>
+    <created-at>2024-03-05T08:51:04-07:00</created-at>
+    <updated-at>2024-03-18T12:34:36-06:00</updated-at>
+    <alt>taupe</alt>
+    <width type="integer">3600</width>
+    <height type="integer">3600</height>
+    <src>https://cdn.shopify.com/s/files/1/0438/1069/files/Lata_Hand-Knotted_Area_Rug_Taupe_1.jpg?v=1710786876</src>
+    <variant-ids type="array">
+      <variant-id type="integer">45579455660219</variant-id>
+      <variant-id type="integer">45579455692987</variant-id>
+      <variant-id type="integer">45579455725755</variant-id>
+      <variant-id type="integer">45579455758523</variant-id>
+    </variant-ids>
+  </image>
+    </product>
+    
+</products>
