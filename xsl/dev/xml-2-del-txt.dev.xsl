@@ -23,7 +23,7 @@
         <xsl:text>&#10;</xsl:text>
     </xsl:variable>
     
-    <xsl:template match="product">
+    <xsl:template match="products">
         <!-- product url -->
         <xsl:variable name="purl" select="concat('http://www.myStore.com/products/', handle)"/>
         
@@ -48,7 +48,7 @@
         <xsl:value-of select="concat('description', $break)"/>
         
         <!-- print products -->      
-        <xsl:for-each select="variants/variant">
+        <xsl:for-each select="product/variants/variant">
             
             <!-- product/parent id -->
             <xsl:value-of select="concat(normalize-space(../../id), $delim)"/>
